@@ -67,7 +67,7 @@ landaAPI()
   return (
   <body>
     <div className='titill'>
-    <h1>Lönd</h1>
+    <h1>Countries</h1>
     </div>
     
     <div className='countries' id='countries'>
