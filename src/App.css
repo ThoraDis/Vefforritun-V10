@@ -1,0 +1,24 @@
+.countries{
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  gap: 20px;
+  max-width: 100%;
+  margin: auto;
+}
+
+.box{
+  background-color: pink;
+  border: 2px solid violet;
+  padding: 2rem;
+  
+}
+
+img{
+  width: 100%;
+}
+
+.titill{
+  text-align: center;
+  font-size: 30px;
+}
+
